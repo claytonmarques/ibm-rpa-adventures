@@ -1,4 +1,4 @@
-# Using IBVM RPA Connect to MySQL (mysqlConnect) when connecting to IBM Cloud My Databases for MySQL.
+# Using IBM RPA Connect to MySQL (mysqlConnect) to access IBM Cloud My Databases for MySQL.
 
 For a given project I needed an IBM RPA script to connect to MySQL SaaS hosted in IBM Cloud (My Databases for MySQL).
 
